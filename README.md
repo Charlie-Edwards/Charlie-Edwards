@@ -1,4 +1,4 @@
-Hi, I'm Charlie, a 13 year old getting into Cybersecurity.
+Hi I'm Charlie, a 13 year old getting into Cybersecurity.
 
 I'm currently working on an AI powered browser extension with a SaaS backend - I've already made £2.50 from it and made a secure paywall with Cloudflare KV namespaces and a VPS for the backend.
 
