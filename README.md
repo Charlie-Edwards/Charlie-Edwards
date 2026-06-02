@@ -6,6 +6,6 @@ I also bought a domain from NameCheap and hosted my own website which I'm now tr
 
 I've learned some Offensive Security on TryHackMe and I'm also familiar with Linux and use it a lot on my laptop (Arch with Hyprland + Kitty).
 
-I own an ESP32-S3 which I'm using to learn more about engineering and programming with C++
+I also know python and own an ESP32-S3 which I'm using to learn more about electronics and programming with C++
 
 I'm trying to make as much money from Cybersecurity as possible and I'm building this portfolio to document my progress.
