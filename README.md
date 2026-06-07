@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
+
 Hi I'm Charlie, a 13 year old getting into Cybersecurity.
 
 I'm currently working on an AI powered browser extension with a SaaS backend - I've already made £6.87 from it and made a secure paywall with Cloudflare KV namespaces and a VPS for the backend.
