@@ -11,3 +11,5 @@ I've learned some Offensive Security on TryHackMe and I'm also familiar with Lin
 I also know python and own an ESP32-S3 which I'm using to learn more about electronics and programming with C++
 
 I'm trying to make as much money from Cybersecurity as possible and I'm building this portfolio to document my progress.
+
+I'm from the UK and I was born on the 23rd of June 2012
