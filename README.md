@@ -2,7 +2,7 @@ Hi I'm Charlie, a 13 year old getting into Cybersecurity.
 
 <img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
 
-I'm currently working on an AI powered browser extension with a SaaS backend - I've already made £8.88 from it and made a secure paywall with Cloudflare KV namespaces and a VPS for the backend.
+I'm currently working on an AI powered browser extension with a SaaS backend - I've already made £9.38 from it and made a secure paywall with Cloudflare KV namespaces and a VPS for the backend.
 
 I also bought a domain from NameCheap and hosted my own website which I'm now trying to sell for $100 (this is where I learned about Cloudflare, using GitHub to host my software and website design).
 
