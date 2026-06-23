@@ -1,4 +1,4 @@
-Hi I'm Charlie, a self-taught 14 year old getting into Cybersecurity.
+Hi I'm Charlie, a self-taught 14 year old in Cybersecurity.
 
 <img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
 
