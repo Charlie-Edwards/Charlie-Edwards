@@ -16,13 +16,22 @@
 
 ---
 
-**My plan:**
+### My Stack:
+
+__Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
+- Artificial intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
+- Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
+- Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
+
+---
+
+### My Plan:
 - [ ] Learn quant
 - [ ] Understand cryptocurrency
 - [ ] Reverse engineer software
 - [ ] Understand memory addresses
 - [ ] Learn C++
-- [ ] Master networking
+- [ ] Learn networking
 - [ ] Learn computer vision
 - [x] Use cybersecurity frameworks
 - [x] Build a neural network
