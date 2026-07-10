@@ -21,12 +21,12 @@
 - [ ] Understand cryptocurrency
 - [ ] Reverse engineer software
 - [ ] Understand memory addresses
-- [ ] Build a neural network
-- [ ] Master C++
+- [ ] Learn C++
 - [ ] Master networking
 - [ ] Learn computer vision
-- [ ] Use cybersecurity frameworks
-- [ ] Master Python
+- [x] Use cybersecurity frameworks
+- [x] Build a neural network
+- [x] Learn Python
 - [x] Understand Linux
 - [x] Use website security
 
