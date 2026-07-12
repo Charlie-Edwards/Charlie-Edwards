@@ -12,6 +12,8 @@
 
 **Hardware:** I own a Flipper Zero and an ESP32-S3 which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
 
+I also own a few books like [Metasploit: The Penetration Tester's Guide](https://books.google.co.uk/books/about/Metasploit.html?id=T9HKgEOCYZEC&) and *Black Hat Python* by Justin Seitz (even though it's outdated and uses Python 2)
+
 <img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
 
 ---
@@ -51,8 +53,6 @@ Timeline of my progress (oldest -> newest):
 
 ---
 
-I'm from the UK and I was born on the 23rd of June 2012.
-
-I am building this GitHub to document my progress.
+This GitHub is built to document my progress.
 
 Thank you for reading!
