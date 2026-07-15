@@ -56,3 +56,5 @@ Timeline of my progress (oldest -> newest):
 This GitHub is built to document my progress.
 
 Thank you for reading!
+
+(Accounts: [roadmap.sh](https://roadmap.sh/u/charlieedwards), [leetcode](https://leetcode.com/u/Charlie_Edwards/))
