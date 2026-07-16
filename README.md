@@ -1,6 +1,6 @@
 \>_ Hi I'm **Charlie**, a self-taught 14 year old in Cybersecurity
 
-[+] Currently learning: **Python** [#](https://github.com/Charlie-Edwards/python)
+[+] Currently learning: [**Python**](https://github.com/Charlie-Edwards/python) / [**C++**](https://github.com/Charlie-Edwards/cpp)
 
 ---
 
