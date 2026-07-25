@@ -8,7 +8,7 @@
 
 **Web:** I bought my first website at **13 years old**, learning about SSL, requests, servers and security like IP rate limiting with Cloudflare turnstiles and defense against simulated attacks.
 
-**Projects:** I also developed an **open-source SaaS extension** at 13 making over £10+ in total profit. The extension uses OpenAI's ChatGPT models depending on the paid plan they purchase and automatically storing them in private keys in Cloudflare KV namespaces using webhooks. I had to pay for the OVHCloud VPS which hosted the node.js discord bot and the AI tokens used to function the extension which was advertised through TikTok.
+**Projects:** I also developed an **open-source SaaS extension** and profited from it at 13. The extension uses OpenAI's ChatGPT models depending on the paid plan they purchase, automatically storing them in private keys in Cloudflare KV namespaces using webhooks and blocking requests to the API until the user enters a valid key (paywall). I had to pay for the OVHCloud VPS which hosted the node.js discord bot and the AI tokens used to function the extension which was advertised online.
 
 **Hardware:** I own a Flipper Zero and an ESP32-S3 which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
 
