@@ -10,7 +10,7 @@
 
 **Projects:** I also developed an **open-source SaaS extension** and profited from it at 13. The extension uses OpenAI's ChatGPT models depending on the paid plan they purchase, automatically storing them in private keys in Cloudflare KV namespaces using webhooks and blocking requests to the API until the user enters a valid key (paywall). I had to pay for the OVHCloud VPS which hosted the node.js discord bot and the AI tokens used to function the extension which was advertised online.
 
-**Hardware:** I own a Flipper Zero and an ESP32-S3 which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
+**Hardware:** I own a Flipper Zero and an [ESP32-S3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3) which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
 
 I also own a few books like [Metasploit: The Penetration Tester's Guide](https://books.google.co.uk/books/about/Metasploit.html?id=T9HKgEOCYZEC&) and *Black Hat Python* by Justin Seitz (even though it's outdated and uses Python 2)
 
