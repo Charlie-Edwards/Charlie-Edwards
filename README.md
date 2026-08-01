@@ -25,6 +25,25 @@ __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
 - Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
 - Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
 
+__C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
+- ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
+- OpenGL ([~/cpp/opengl](https://github.com/Charlie-Edwards/cpp/tree/main/opengl))
+
+__Frameworks & Libraries__:
+- Adafruit NeoPixel
+- Beautiful Soup
+- discord.py
+- glad
+- GLFW
+- Matplotlib
+- NumPy
+- OpenCV
+- OpenGL
+- PyQt (5 & 6)
+- Requests
+- scikit-learn
+- TensorFlow
+
 (I'm also familiar with SQL (postgreSQL & SQLite), HTML, CSS and Bash for Linux)
 
 ---
