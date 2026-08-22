@@ -1,33 +1,52 @@
-\>_ Hi I'm **Charlie**, a self-taught 14 year old in Cybersecurity
+\>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
-[+] Currently learning: **Python** [#](https://github.com/Charlie-Edwards/python)
+[+] Computational Medicine
 
----
-
-**Cybersecurity:** I've learned some Offensive Security on TryHackMe and I'm also familiar with Linux and use arch daily on my laptop.
-
-**Web:** I bought my first website at **13 years old**, learning about SSL, requests, servers and security like IP rate limiting with Cloudflare turnstiles and defense against simulated attacks.
-
-**Projects:** I also developed an **open-source SaaS extension** and profited from it at 13. The extension uses OpenAI's ChatGPT models depending on the paid plan they purchase, automatically storing them in private keys in Cloudflare KV namespaces using webhooks and blocking requests to the API until the user enters a valid key (paywall). I had to pay for the OVHCloud VPS which hosted the node.js discord bot and the AI tokens used to function the extension which was advertised online.
-
-**Hardware:** I own a Flipper Zero and an [ESP32-S3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3) which I'm using to learn about WiFi signals, Bluetooth, network traffic, sensors and electronics.
-
-I also own a few books like [Metasploit: The Penetration Tester's Guide](https://books.google.co.uk/books/about/Metasploit.html?id=T9HKgEOCYZEC&) and *Black Hat Python* by Justin Seitz (even though it's outdated and uses Python 2)
-
-<img src="https://raw.githubusercontent.com/Charlie-Edwards/python/refs/heads/main/oop/demo.png">
+|My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
+|:-------------:|:-------------:|:-------------:|
+|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/charlieEdwards)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
+|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/charlieedwards)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
+|[R](https://github.com/Charlie-Edwards/r)|[LeetCode](https://leetcode.com/u/Charlie_Edwards/)|[Following](https://github.com/Charlie-Edwards?tab=following)|
 
 ---
 
-### My Stack:
+### Timeline:
+
+__2026-2027 (14)__:
+
+- Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
+
+__2025-2026 (13)__:
+
+- Then I started taking education more seriously, learning [Python](https://github.com/Charlie-Edwards/python) for networking, machine learning and data science. Testing out a bunch of different tools within fields like reverse engineering, cryptography and web security.
+- I also started daily driving arch linux on my laptop and bought a web domain for pentesting.
+- Self-teaching through tutorials and guides from people like NeuralNine [#](https://www.youtube.com/@NeuralNine) and NetworkChuck [#](https://www.youtube.com/@NetworkChuck) helped me stay relevant in the field despite my school not teaching this and kept me at my own pace and understanding.
+
+__2024-2025 (12)__:
+
+- Interested in __cybersecurity__, I started learning computer science fundamentals and basic concepts like offensive and defensive security against attacks through [TryHackMe](https://tryhackme.com/p/charlieEdwards) easy rooms and CTF walkthroughs.
+
+---
+
+### Stack:
 
 __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
-- Artificial intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
+- Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
+- - Computer Vision
+- - Machine Learning models
 - Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
+- - Cryptography / Steganography
+- - Encryption
+- - SQLite / PostgreSQL Databases
 - Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
+- - Protocols, ports, servers
+- - Tor, IP's
+- - Web browser / Web porting
 
 __C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
 - ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
 - OpenGL ([~/cpp/opengl](https://github.com/Charlie-Edwards/cpp/tree/main/opengl))
+- WinAPI ([~/cpp/winapi](https://github.com/Charlie-Edwards/cpp/tree/main/winapi))
 
 __Frameworks & Libraries__:
 - Adafruit NeoPixel
@@ -48,34 +67,15 @@ __Frameworks & Libraries__:
 
 ---
 
-### My Plan:
-- [ ] Learn quant
-- [ ] Understand cryptocurrency
-- [ ] Reverse engineer software
-- [ ] Understand memory addresses
-- [ ] Learn C++
-- [ ] Learn networking
-- [ ] Learn computer vision
-- [x] Use cybersecurity frameworks
-- [x] Build a neural network
-- [x] Learn Python
-- [x] Understand Linux
-- [x] Use website security
+- [x] Understanding of machine learning systems
+- [ ] Know R
+- [ ] Know C++
+- [x] Know Python
+- [x] Know SQL
+- [x] Understand Linux systems
 
 ---
 
-Timeline of my progress (oldest -> newest): 
-
-| Age | Progress | Years |
-| :-------------: | :-------------: | :-------------: |
-| 14 | . . . | 2026 |
-| 13 | Made a profitable business | 2026 |
-|  | Bought a website | 2025 |
-
----
-
-This GitHub is built to document my progress.
+This GitHub profile is built to document my progress.
 
 Thank you for reading!
-
-(Accounts: [roadmap.sh](https://roadmap.sh/u/charlieedwards), [leetcode](https://leetcode.com/u/Charlie_Edwards/))
