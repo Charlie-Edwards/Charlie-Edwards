@@ -2,11 +2,20 @@
 
 [+] Computational Medicine
 
-|My Stack [#](https://github.com/Charlie-Edwards#Stack)|Accounts|GitHub [#](https://github.com/Charlie-Edwards)|
-|:-------------:|:-------------:|:-------------:|
-|[Python](https://github.com/Charlie-Edwards/python)|[THM](https://tryhackme.com/p/charlieEdwards)|[Repos](https://github.com/Charlie-Edwards?tab=repositories&q=&language=&sort=name)|
-|[C++](https://github.com/Charlie-Edwards/cpp)|[roadmap.sh](https://roadmap.sh/u/charlieedwards)|[Stars](https://github.com/Charlie-Edwards?tab=stars)|
-|[R](https://github.com/Charlie-Edwards/r)|[LeetCode](https://leetcode.com/u/Charlie_Edwards/)|[Following](https://github.com/Charlie-Edwards?tab=following)|
+\- My Accounts ([~/TryHackMe.url](https://tryhackme.com/p/charlieEdwards), [~/RoadmapSh.url](https://roadmap.sh/u/charlieedwards), [~/LeetCode.url](https://leetcode.com/u/Charlie_Edwards))
+
+\- My Stack ([~/#Stack](https://github.com/Charlie-Edwards#Stack))
+
+\- A timeline of my progress ([~/#Timeline](https://github.com/Charlie-Edwards#Timeline))
+
+```py
+Charlie (
+    name = "Charlie Edwards",
+    age = 0xE, # 14
+    occupation = "Computational Medicine",
+    location = "England, United Kingdom"
+)
+```
 
 ---
 
@@ -14,7 +23,7 @@
 
 __2026-2027 (14)__:
 
-- Reconsidering if I really wanted to work in cybersecurity (since I didn't feel like I was progressing at all and [the impact of AI](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
+- Reconsidering if I really wanted to work in cybersecurity (AI ([?](https://www.isc2.org/Insights/2026/07/rethinking-ai-impact-on-cybersecurity-roles)), relevance and interest), I'm now aiming to work in computational medicine with __Bioinformatics__ which doesn't waste much of my previous effort in learning cybersecurity and can help me do what I like even in a new field.
 
 __2025-2026 (13)__:
 
