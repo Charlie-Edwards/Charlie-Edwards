@@ -1,3 +1,8 @@
+> [!NOTE]
+> I'm using Github less for a little bit because I have to revise and go to the gym so I'm always too exhausted to want to code but I will when I have the time. I'm saving up crypto too: [bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk](https://metasleuth.io/result/btc/bc1qjqtszxz72e23nwq8yf7x9csvudn3ss7wmt89dk) (I also have LTC but multiple addresses make it hard to show)
+
+---
+
 \>_ Hi I'm **Charlie**, a self-taught 14 year old programmer getting into computational medicine with interests in bioinformatics
 
 [+] Computational Medicine
@@ -17,9 +22,13 @@ Charlie (
 )
 ```
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Charlie-Edwards&layout=compact&langs_count=10&hide=html,css,ren'py,makefile&theme=react)](https://github.com/Charlie-Edwards#stack)
+
 ---
 
 ### Timeline:
+
+A timeline of my progress and some info about me, (<ins>read from bottom to top</ins>):
 
 __2026-2027 (14)__:
 
@@ -41,16 +50,16 @@ __2024-2025 (12)__:
 
 __Python__ ([~/python](https://github.com/Charlie-Edwards/python)):
 - Artificial Intelligence / Machine Learning ([~/python/ai-ml](https://github.com/Charlie-Edwards/python/tree/main/ai-ml))
-- - Computer Vision
-- - Machine Learning models
+  - Computer Vision
+  - Machine Learning models
 - Data Science ([~/python/data](https://github.com/Charlie-Edwards/python/tree/main/data))
-- - Cryptography / Steganography
-- - Encryption
-- - SQLite / PostgreSQL Databases
+  - Cryptography / Steganography
+  - Encryption
+  - SQLite / PostgreSQL Databases
 - Networking ([~/python/networking](https://github.com/Charlie-Edwards/python/tree/main/networking))
-- - Protocols, ports, servers
-- - Tor, IP's
-- - Web browser / Web porting
+  - Protocols, ports, servers
+  - Tor, IP's
+  - Web browser / Web porting
 
 __C++__ ([~/cpp](https://github.com/Charlie-Edwards/cpp)):
 - ESP32-S3 ([~/cpp/esp32-s3](https://github.com/Charlie-Edwards/cpp/tree/main/esp32-s3))
@@ -76,7 +85,7 @@ __Frameworks & Libraries__:
 
 ---
 
-- [x] Understanding of machine learning systems
+- [x] Understanding of machine learning models
 - [ ] Know R
 - [ ] Know C++
 - [x] Know Python
